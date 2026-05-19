@@ -1,0 +1,2 @@
+method,method_label,coverage,p10_well_coverage,worst_well_coverage,width,winkler,rmse
+source_only_rf_cqr,Source-only RF-CQR,0.902854938271605,0.8018055555555557,0.6395833333333333,0.1422177922481402,0.2010042189942072,0.05233191654936489

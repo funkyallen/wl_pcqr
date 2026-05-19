@@ -1,0 +1,3 @@
+WELLNUM,WELL_NAME,DOMAIN,samples,depth_min,depth_max,phit_min,phit_mean,phit_max,DTC_missing,DTS_missing,GR_missing,NPHIL_missing,RESD_LOG10_missing,RHOB_missing
+0,Gulf of Mexico lower Purple sand,GOM,59,15715.0,15744.0,0.1674,0.24991355932203388,0.2894,0.0,0.0,0.0,0.0,0.0,0.0
+1,Dutch North Sea Westphalian C,DNS,160,3875.0748,3984.9552,0.0,0.06030624999999999,0.168,0.0,0.0,0.0,0.0,0.0,0.0

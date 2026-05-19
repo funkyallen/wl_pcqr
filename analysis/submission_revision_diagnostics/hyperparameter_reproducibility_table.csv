@@ -1,0 +1,13 @@
+component,setting,value
+RandomForestRegressor,n_estimators,160
+RandomForestRegressor,min_samples_leaf,8
+RandomForestRegressor,max_features,0.75
+ExtraTreesRegressor,n_estimators,180
+ExtraTreesRegressor,min_samples_leaf,8
+HistGradientBoostingRegressor,learning_rate,0.05
+HistGradientBoostingRegressor,max_iter,100-110
+LightGBM,n_estimators / learning_rate,180 / 0.035
+CatBoost,iterations / depth / learning_rate,220 / 6 / 0.035
+NGBoost,distribution / estimators / learning_rate,Normal / 160 / 0.025
+All experiments,seeds,"42, 7, 123"
+Preprocessing,imputation,split-wise training median

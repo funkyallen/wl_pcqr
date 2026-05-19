@@ -1,0 +1,10 @@
+target,selected_level,count
+PHIF,location-scale,15
+PHIF,scale,3
+PHIF,uniform,9
+SW,location-scale,16
+SW,scale,4
+SW,uniform,7
+VSH,location-scale,15
+VSH,scale,6
+VSH,uniform,6

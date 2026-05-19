@@ -1,0 +1,2 @@
+method,method_label,coverage,p10_well_coverage,worst_well_coverage,width,winkler,rmse,macro_well_coverage,macro_well_winkler,rank_winkler
+proper_split_wl_pcqr,Proper-split WL-PCQR,0.9795524691358024,0.956076388888889,0.9366319444444444,0.23762438971014868,0.25278872820382087,0.045304587957391375,0.9795524691358024,0.25278872820382087,1

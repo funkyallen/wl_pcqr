@@ -1,0 +1,4 @@
+target,target_wells,retained_per_well_min,retained_per_well_max,source_train_n_min,source_train_n_max,calibration_n_min,calibration_n_max,evaluation_n_min,evaluation_n_max
+PHIF,9,160,160,1280,1280,32,32,128,128
+SW,9,160,160,1280,1280,32,32,128,128
+VSH,9,160,160,1280,1280,32,32,128,128
